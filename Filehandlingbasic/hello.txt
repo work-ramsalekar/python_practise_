@@ -1,0 +1,2 @@
+this is text file i want to read this file using python
+This is append new content This is append new content This is append new content This is append new content This is append new content 

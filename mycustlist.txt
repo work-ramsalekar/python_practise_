@@ -1,0 +1,4 @@
+Name :  Ram  paln : DIAMOND and  cart : 1 :  Soap : 20 ,4 :  Pen : 100 ,
+Name :  Sid  paln : DIAMOND and  cart : 
+Name :  Guru  paln : GOLD and  cart : 
+Name :  atul  paln : SILVER and  cart : 
